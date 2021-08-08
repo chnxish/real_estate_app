@@ -38,6 +38,8 @@
 
     + axios
 
+    + react-helmet
+
 ## Required
 
   + PostgreSQL
