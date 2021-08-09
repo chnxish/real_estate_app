@@ -23,22 +23,24 @@
   + node and react
 
   + package:
+
+    + axios
   
+    + react-helmet
+
+    + react-loader-spinner
+
+    + react-redux 
+
     + react-router-dom 
 
     + redux
 
-    + redux-thunk 
-    
-    + react-redux 
-    
     + redux-devtools-extension
 
+    + redux-thunk 
+
     + uuid
-
-    + axios
-
-    + react-helmet
 
 ## Required
 
