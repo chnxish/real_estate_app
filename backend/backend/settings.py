@@ -86,7 +86,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'realest_estate',
         'USER': 'postgres',
-        'PASSWORD': 'xiaosha9728',
+        'PASSWORD': 'postgresql-password',
         'HOST': 'localhost',
         'PORT': '5432',
     }
@@ -97,7 +97,7 @@ EMAIL_HOST = 'smtp-mail.outlook.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'xiaosha9728@outlook.com'
-EMAIL_HOST_PASSWORD = 'chnxish9728'
+EMAIL_HOST_PASSWORD = 'outlook-password'
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
