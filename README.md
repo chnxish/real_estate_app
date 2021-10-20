@@ -42,7 +42,7 @@
 
     + uuid
 
-## Required
+## SQL
 
   + PostgreSQL
 
