@@ -52,8 +52,6 @@
 
     + database name: realest_estate
 
-  + Postman
-
 ## From
 
   + Youtube: Bryan Dunn, Django React Full Stack Real Estate App
